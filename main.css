@@ -7,9 +7,16 @@ body {
   padding: 50px;
 }
 header{
+  top: 0px;
+  left: 0px;
+  width: 600px;
+  height: 77px;
   background: linear-gradient(0.85turn, #2F388F 20%, #158EAD 80%);
   padding: 40px;
   text-align: center;
+  background: transparent linear-gradient(116deg, #158EAD 0%, var(--unnamed-color-2f388f) 100%) 0% 0% no-repeat padding-box;
+  background: transparent linear-gradient(116deg, #158EAD 0%, #2F388F 100%) 0% 0% no-repeat padding-box;
+  opacity: 1;
 
 }
 
