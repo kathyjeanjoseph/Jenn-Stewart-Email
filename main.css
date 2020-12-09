@@ -4,6 +4,7 @@ body {
   background: #fff;
   max-width: 600px;
   margin: 100px;
+  padding: 50px;
 }
 header{
   background: linear-gradient(0.85turn, #2F388F 20%, #158EAD 80%);
