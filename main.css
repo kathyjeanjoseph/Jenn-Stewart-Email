@@ -3,7 +3,7 @@
 body {
   background: #fff;
   max-width: 600px;
-  margin: 0 auto;
+  margin: 100px;
 }
 header{
   background: linear-gradient(0.85turn, #2F388F 20%, #158EAD 80%);
